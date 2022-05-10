@@ -1,1 +1,1 @@
-webgamecollection is intended to be my first combined HTML, CSS, and JavaScript <em>project<em>.
+webgamecollection is intended to be my first <strong>real</strong> combined HTML, CSS, <em>and</em> JavaScript project. I have previously created a blog site, but it was intended to be more of a playground for my learning.
